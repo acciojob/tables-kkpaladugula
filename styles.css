@@ -1,8 +1,11 @@
     #total{
         font-size   : monospace;
         font-weight: bold; 
+        text-align: end;
+
     }
     .colspan{
-        text-align: end;
+        font-size   : monospace;
+        font-weight: bold; 
     }
     
